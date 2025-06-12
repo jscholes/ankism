@@ -1,0 +1,10 @@
+[project]
+name = "ankism"
+version = "0.1.0"
+description = "Anki sentence mining flashcard creator."
+readme = "README.md"
+authors = [
+    { name = "James Scholes", email = "james@jamesscholes.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
